@@ -1,0 +1,32 @@
+.imagenes{
+
+width: 388px;
+height: 300px;
+
+
+}
+.divs{
+
+ 
+    width: 31%;  
+    display: block; 
+    content:"";
+}
+.resaltar{
+
+zoom: 2;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: white;
+}
+.resaltarp{
+
+
+    background: white;
+    color: violet;
+}
+
+.lista{
+
+    color:  darkmagenta;    
+
+}
